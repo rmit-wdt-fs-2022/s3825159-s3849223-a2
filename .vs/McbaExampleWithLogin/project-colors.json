@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "889f2092-4698-44d8-b3a5-4e2345fbf0dd": {
+      "ProjectGuid": "889f2092-4698-44d8-b3a5-4e2345fbf0dd",
+      "DisplayName": "McbaExampleWithLogin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
