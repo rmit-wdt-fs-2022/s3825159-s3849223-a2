@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qAZGnC1Sd6k5oKHT27p7E8jbTlDtDhBjKRytG+67ajM=",
+  "Hash": "hVuH5/dwukdjdmQaoGgVz3faojSTmcmZYrjscNeMg8A=",
   "Source": "McbaExampleWithLogin",
   "BasePath": "_content/McbaExampleWithLogin",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "McbaExampleWithLogin\\wwwroot",
       "Source": "McbaExampleWithLogin",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\css\\site.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\css\\site.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\favicon.ico",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\favicon.ico",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\img\\bank.jpg",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\img\\bank.jpg",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "img/bank.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bank.jpg"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\js\\site.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\js\\site.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "McbaExampleWithLogin",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
+      "ContentRoot": "G:\\WebDevelopmentTechnologies\\Bugfree\\s3825159-s3849223-a2\\McbaExampleWithLogin\\wwwroot\\",
       "BasePath": "_content/McbaExampleWithLogin",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

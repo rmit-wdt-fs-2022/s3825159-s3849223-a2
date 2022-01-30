@@ -22,6 +22,10 @@
                 <td>
                     <a class="btn btn-primary"
                         asp-action="Deposit" asp-route-id="@account.AccountNumber">Deposit</a>
+                    <a class="btn btn-danger"
+                        asp-action="Withdraw" asp-route-id="@account.AccountNumber">Withdraw</a>
+                    <a class="btn btn-success"
+                        asp-action="Transfer" asp-route-id="@account.AccountNumber">Transfer</a>
                 </td>
             </tr>
         }

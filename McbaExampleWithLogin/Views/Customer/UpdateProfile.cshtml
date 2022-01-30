@@ -1,0 +1,64 @@
+﻿@model Customer
+@{
+    ViewData["Title"] = "UpdateProfile";
+}
+
+<p>Update your profile</p>
+
+<div class="row">
+    <div class="col-md-4">
+       <p><strong>Your Given Details:</strong></p>
+       <li>Name: @Model.Name</li>
+        @if(Model.Suburb == null)
+        {
+            <li>Suburb: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>Suburb: @Model.Suburb</li>
+        }
+        @if(Model.City == null)
+        {
+            <li>City: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>City: @Model.City</li>
+        }
+        @if(Model.Address == null)
+        {
+            <li>Address: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>Suburb: @Model.Address</li>
+        }
+        @if(Model.PostCode == null)
+        {
+            <li>PostCode: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>Suburb: @Model.PostCode</li>
+        }
+        @if(Model.State == null)
+        {
+            <li>State: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>Suburb: @Model.State</li>
+        }
+        @if(Model.TFN == null)
+        {
+            <li>TFN: <strong>You have not yet provided!</strong></li>
+        } else
+        {
+            <li>TFN: @Model.TFN</li>
+        }
+    </div>
+</div>
+
+<br />
+<div>
+    <a asp-action="Index">Back to Accounts</a>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
