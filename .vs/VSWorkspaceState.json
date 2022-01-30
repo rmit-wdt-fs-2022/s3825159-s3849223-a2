@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\McbaExampleWithLogin",
+    "\\McbaExampleWithLogin\\Migrations"
   ],
-  "SelectedNode": "\\McbaExampleWithLogin.sln",
+  "SelectedNode": "\\McbaExampleWithLogin\\Migrations\\20220121135722_initialsetup.cs",
   "PreviewInSolutionExplorer": false
 }

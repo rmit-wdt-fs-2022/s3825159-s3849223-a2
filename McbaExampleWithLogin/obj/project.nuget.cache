@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mEA3elZp49VIqAdlRziKJrlmHXu8ar+z67hiVR9Pu3FB58pA3RBCVmNFm0Wa/pPnEERJwnp5JPDell9uLDHiPA==",
+  "dgSpecHash": "IBszYjnfsTjjjLQhbaEDeIEogqOc+oyldF6aB8muDPwec8FugF1UwJZNtIrRwWaiNYPMSEHyb1oPTb36yzT29g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Downloads\\Day6\\McbaExampleWithLogin\\McbaExampleWithLogin.csproj",
+  "projectFilePath": "G:\\WebDevelopmentTechnologies\\Final\\s3825159-s3849223-a2\\McbaExampleWithLogin\\McbaExampleWithLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

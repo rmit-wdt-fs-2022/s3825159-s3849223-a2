@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = McbaExampleWithLogin
 build_property.RootNamespace = McbaExampleWithLogin
-build_property.ProjectDir = C:\Users\Lenovo\Downloads\Day6\McbaExampleWithLogin\
+build_property.ProjectDir = G:\WebDevelopmentTechnologies\Final\s3825159-s3849223-a2\McbaExampleWithLogin\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Lenovo\Downloads\Day6\McbaExampleWithLogin
+build_property.MSBuildProjectDirectory = G:\WebDevelopmentTechnologies\Final\s3825159-s3849223-a2\McbaExampleWithLogin
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Customer/Deposit.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Customer/Deposit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVwb3NpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Customer/Index.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Home/Index.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Home/Privacy.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Login/Login.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Shared/Error.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Shared/_Layout.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/_ViewImports.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Lenovo/Downloads/Day6/McbaExampleWithLogin/Views/_ViewStart.cshtml]
+[G:/WebDevelopmentTechnologies/Final/s3825159-s3849223-a2/McbaExampleWithLogin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
