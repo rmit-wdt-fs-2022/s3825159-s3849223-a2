@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\McbaExampleWithLogin",
-    "\\McbaExampleWithLogin\\Migrations"
+    "\\McbaExampleWithLogin\\Views",
+    "\\McbaExampleWithLogin\\Views\\Shared"
   ],
-  "SelectedNode": "\\McbaExampleWithLogin.sln",
+  "SelectedNode": "\\McbaExampleWithLogin\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
