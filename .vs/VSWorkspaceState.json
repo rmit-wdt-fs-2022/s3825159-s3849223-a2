@@ -3,6 +3,8 @@
     "",
     "\\McbaExampleWithLogin",
     "\\McbaExampleWithLogin\\Views",
+    "\\McbaExampleWithLogin\\Views\\Customer",
+    "\\McbaExampleWithLogin\\Views\\Home",
     "\\McbaExampleWithLogin\\Views\\Shared"
   ],
   "SelectedNode": "\\McbaExampleWithLogin\\Views\\Shared\\_Layout.cshtml",

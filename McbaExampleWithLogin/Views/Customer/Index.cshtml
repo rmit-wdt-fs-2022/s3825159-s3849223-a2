@@ -5,7 +5,10 @@
 
 <div>
     <h1 class="display-4">Welcome, @Model.Name</h1>
-    
+
+    <a class="btn btn-warning"
+       asp-controller="Customer" asp-route-id="@Model.CustomerID" asp-action="UpdateProfile">Update Profile</a>
+
     <h3>Your Accounts</h3>
     <table class="table">
         <tr>
@@ -15,19 +18,21 @@
             <th></th>
         </tr>
         @foreach(var account in Model.Accounts) {
-            <tr>
-                <td>@Html.DisplayFor(x => account.AccountNumber)</td>
-                <td>@Html.DisplayFor(x => account.AccountType)</td>
-                <td>@Html.DisplayFor(x => account.Balance)</td>
-                <td>
-                    <a class="btn btn-primary"
-                        asp-action="Deposit" asp-route-id="@account.AccountNumber">Deposit</a>
-                    <a class="btn btn-danger"
-                        asp-action="Withdraw" asp-route-id="@account.AccountNumber">Withdraw</a>
-                    <a class="btn btn-success"
-                        asp-action="Transfer" asp-route-id="@account.AccountNumber">Transfer</a>
-                </td>
-            </tr>
+        <tr>
+            <td>@Html.DisplayFor(x => account.AccountNumber)</td>
+            <td>@Html.DisplayFor(x => account.AccountType)</td>
+            <td>@Html.DisplayFor(x => account.Balance)</td>
+            <td>
+                <a class="btn btn-primary"
+                   asp-action="Deposit" asp-route-id="@account.AccountNumber">Deposit</a>
+                <a class="btn btn-danger"
+                   asp-action="Withdraw" asp-route-id="@account.AccountNumber">Withdraw</a>
+                <a class="btn btn-success"
+                   asp-action="Transfer" asp-route-id="@account.AccountNumber">Transfer</a>
+                <a class="btn btn-info"
+                   asp-action="Statements" asp-route-id="@account.AccountNumber">My Statements</a>
+            </td>
+        </tr>
         }
     </table>
 </div>

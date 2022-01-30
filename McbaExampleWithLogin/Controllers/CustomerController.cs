@@ -149,4 +149,6 @@ public class CustomerController : Controller
     {
         return View(await _context.Customers.FindAsync(id));
     }
+
+    public async Task<IActionResult> Statements(int id) => View(await _context.Accounts.FindAsync(id));
 }

@@ -1,0 +1,31 @@
+﻿@model Account
+<div>
+    <h1 class="display-4">Account Number @Model.AccountNumber (@Model.AccountType)</h1>
+    
+    <h3>Your Transactions</h3>
+    <table class="table">
+            <tr>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].AccountNumber)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].DestinationAccountNumber)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].TransactionID)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].TransactionType)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].Amount)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].Comment)</th>
+            <th>@Html.DisplayNameFor(x => x.Transactions[0].TransactionTimeUtc)</th>
+            <th></th>
+        </tr>
+        @foreach(var transaction in Model.Transactions) {
+            <tr>
+                <td>@Html.DisplayFor(x => transaction.AccountNumber)</td>
+                <td>@Html.DisplayFor(x => transaction.DestinationAccountNumber)</td>
+                <td>@Html.DisplayFor(x => transaction.TransactionID)</td>
+                <td>@Html.DisplayFor(x => transaction.TransactionType)</td>
+                <td>@Html.DisplayFor(x => transaction.Amount)</td>
+                <td>@Html.DisplayFor(x => transaction.Comment)</td>
+                <td>@Html.DisplayFor(x => transaction.TransactionTimeUtc)</td>
+                <td>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

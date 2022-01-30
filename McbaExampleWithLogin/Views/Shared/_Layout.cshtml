@@ -28,6 +28,7 @@
                                     Welcome, @Context.Session.GetString(nameof(Customer.Name))
                                 </span>
                             </li>
+                            
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-controller="Login" asp-action="Logout">Logout</a>
                             </li>
@@ -35,22 +36,20 @@
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-controller="Login" asp-action="Login">Login</a>
                             </li>
+                            
                         }
                     </ul>
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+    
                         @if(isLoggedIn) {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-controller="Customer" asp-action="Index">My Accounts</a>
                             </li>
                         }
-                        @if(isLoggedIn) {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Customer" asp-route-id="@Model.CustomerID" asp-action="UpdateProfile">Update Profile</a>
-                            </li>
-                        }
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
                     </ul>
                 </div>
             </div>
