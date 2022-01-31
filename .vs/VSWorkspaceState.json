@@ -2,11 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\McbaExampleWithLogin",
-    "\\McbaExampleWithLogin\\Views",
+    "\\McbaExampleWithLogin\\Controllers",
+    "\\McbaExampleWithLogin\\Data",
+    "\\McbaExampleWithLogin\\Models",
     "\\McbaExampleWithLogin\\Views\\Customer",
     "\\McbaExampleWithLogin\\Views\\Home",
     "\\McbaExampleWithLogin\\Views\\Shared"
   ],
-  "SelectedNode": "\\McbaExampleWithLogin\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\McbaExampleWithLogin\\Controllers\\CustomerController.cs",
   "PreviewInSolutionExplorer": false
 }
