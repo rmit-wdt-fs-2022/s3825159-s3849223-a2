@@ -150,5 +150,21 @@ public class CustomerController : Controller
         return View(await _context.Customers.FindAsync(id));
     }
 
+    public async Task<IActionResult> UpdateDetails(int id, string Suburb, string PostCode, string State, string Address, string TFN)
+    {
+
+        var customers = await _context.Customers.FindAsync(CustomerID);
+
+        customers.Suburb = Suburb;
+        customers.TFN = TFN;
+        customers.Address = Address;
+        customers.State = State;
+        customers.PostCode = PostCode;
+
+        await _context.SaveChangesAsync();
+
+        return RedirectToAction(nameof(Index));
+    }
+
     public async Task<IActionResult> Statements(int id) => View(await _context.Accounts.FindAsync(id));
 }

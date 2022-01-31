@@ -28,21 +28,21 @@
             <li>Address: <strong>You have not yet provided!</strong></li>
         } else
         {
-            <li>Suburb: @Model.Address</li>
+            <li>Address: @Model.Address</li>
         }
         @if(Model.PostCode == null)
         {
             <li>PostCode: <strong>You have not yet provided!</strong></li>
         } else
         {
-            <li>Suburb: @Model.PostCode</li>
+            <li>PostCode: @Model.PostCode</li>
         }
         @if(Model.State == null)
         {
             <li>State: <strong>You have not yet provided!</strong></li>
         } else
         {
-            <li>Suburb: @Model.State</li>
+            <li>State: @Model.State</li>
         }
         @if(Model.TFN == null)
         {
@@ -51,7 +51,52 @@
         {
             <li>TFN: @Model.TFN</li>
         }
+
+
+        <form asp-action="UpdateDetails">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="Suburb" class="control-label"></label>
+                <p>Suburb</p>
+                <input id="Suburb" name="Suburb" class="form-control" 
+                placeholder="@Model.Suburb"
+                    data-val="true" data-val-required="The Suburb field is required."
+                @Html.ValidationMessage("Suburb", new { @class = "text-danger" })
+
+                <label for="Address" class="control-label"></label>
+                <p>Address</p>
+                <input id="Address" name="Address" class="form-control" 
+                    data-val="true" 
+                    data-val-required="The Address field is required." placeholder="@Model.Address"/>
+                @Html.ValidationMessage("Address", new { @class = "text-danger" })
+
+                <label for="State" class="control-label"></label>
+                <p>State</p>
+                <input id="State" name="State" class="form-control" 
+                    data-val="true" 
+                    data-val-required="The State field is required." placeholder="@Model.State"/>
+                @Html.ValidationMessage("State", new { @class = "text-danger" })
+
+                <label for="PostCode" class="control-label"></label>
+                <p>PostCode</p>
+                <input id="PostCode" name="PostCode" class="form-control" 
+                    data-val="true" 
+                    data-val-required="The PostCode field is required." placeholder="@Model.PostCode"/>
+                @Html.ValidationMessage("PostCode", new { @class = "text-danger" })
+
+                <label for="TFN" class="control-label"></label>
+                <p>TFN - Please provide it urgently</p>
+                <input id="TFN" name="TFN" class="form-control" 
+                    data-val="true" 
+                    data-val-required="The TFN field is required." placeholder="@Model.TFN"/>
+                @Html.ValidationMessage("TFN", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update Details" class="btn btn-primary" />
+            </div>
+        </form>
     </div>
+
 </div>
 
 <br />
