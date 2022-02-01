@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using McbaExample.Models;
+using McbaExampleWithLogin.Models;
 
 namespace McbaExample.Data;
 
@@ -12,6 +13,9 @@ public class McbaContext : DbContext
     public DbSet<Login> Logins { get; set; }
     public DbSet<Account> Accounts { get; set; }
     public DbSet<Transaction> Transactions { get; set; }
+    public DbSet<Payee> Payee { get; set; }
+
+    public DbSet<BillPay> BillPay { get; set; }
 
     // Fluent-API.
     protected override void OnModelCreating(ModelBuilder builder)

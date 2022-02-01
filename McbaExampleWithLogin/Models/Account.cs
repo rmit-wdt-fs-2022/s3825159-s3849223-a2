@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using McbaExampleWithLogin.Models;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace McbaExample.Models;
@@ -20,6 +21,8 @@ public class Account
 
     public int CustomerID { get; set; }
     public virtual Customer Customer { get; set; }
+
+    public virtual List<BillPay> Bills { get; set; } //comment if problems
 
     [Column(TypeName = "money")]
     [DataType(DataType.Currency)]

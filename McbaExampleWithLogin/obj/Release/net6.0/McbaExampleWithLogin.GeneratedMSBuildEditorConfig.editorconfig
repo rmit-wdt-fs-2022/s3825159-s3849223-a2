@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = G:\WebDevelopmentTechnologies\Bugfree\s3825159-s3849223-a2\McbaExampleWithLogin
 build_property._RazorSourceGeneratorDebug = 
 
+[G:/WebDevelopmentTechnologies/Bugfree/s3825159-s3849223-a2/McbaExampleWithLogin/Views/BillPay/BillSchedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFBheVxCaWxsU2NoZWR1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/WebDevelopmentTechnologies/Bugfree/s3825159-s3849223-a2/McbaExampleWithLogin/Views/BillPay/CreateBill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFBheVxDcmVhdGVCaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/WebDevelopmentTechnologies/Bugfree/s3825159-s3849223-a2/McbaExampleWithLogin/Views/BillPay/SelectAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFBheVxTZWxlY3RBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [G:/WebDevelopmentTechnologies/Bugfree/s3825159-s3849223-a2/McbaExampleWithLogin/Views/Customer/Deposit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVwb3NpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

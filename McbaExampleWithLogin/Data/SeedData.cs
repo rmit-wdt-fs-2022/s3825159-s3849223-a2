@@ -1,4 +1,5 @@
 ﻿using McbaExample.Models;
+using Newtonsoft.Json;
 
 namespace McbaExample.Data;
 
@@ -12,7 +13,8 @@ public static class SeedData
         if(context.Customers.Any())
             return; // DB has already been seeded.
 
-        context.Customers.AddRange(
+
+                context.Customers.AddRange(
             new Customer
             {
                 CustomerID = 2100,

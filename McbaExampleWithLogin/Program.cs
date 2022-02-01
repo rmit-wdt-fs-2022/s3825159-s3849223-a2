@@ -1,7 +1,12 @@
 using McbaExample.Data;
 using Microsoft.EntityFrameworkCore;
+using McbaExampleWithLogin.HostedService;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//Adding Web Service For Bills
+
+builder.Services.AddHostedService<BillPayService>();
 
 // Add services to the container.
 builder.Services.AddDbContext<McbaContext>(options =>

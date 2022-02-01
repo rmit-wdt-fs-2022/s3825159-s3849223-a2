@@ -4,11 +4,8 @@
     "\\McbaExampleWithLogin",
     "\\McbaExampleWithLogin\\Controllers",
     "\\McbaExampleWithLogin\\Data",
-    "\\McbaExampleWithLogin\\Models",
-    "\\McbaExampleWithLogin\\Views\\Customer",
-    "\\McbaExampleWithLogin\\Views\\Home",
-    "\\McbaExampleWithLogin\\Views\\Shared"
+    "\\McbaExampleWithLogin\\Models"
   ],
-  "SelectedNode": "\\McbaExampleWithLogin\\Controllers\\CustomerController.cs",
+  "SelectedNode": "\\McbaExampleWithLogin\\Models\\Customer.cs",
   "PreviewInSolutionExplorer": false
 }
