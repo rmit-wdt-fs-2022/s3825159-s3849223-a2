@@ -4,8 +4,10 @@
     "\\McbaExampleWithLogin",
     "\\McbaExampleWithLogin\\Controllers",
     "\\McbaExampleWithLogin\\Data",
-    "\\McbaExampleWithLogin\\Models"
+    "\\McbaExampleWithLogin\\Models",
+    "\\McbaExampleWithLogin\\Views",
+    "\\McbaExampleWithLogin\\Views\\BillPay"
   ],
-  "SelectedNode": "\\McbaExampleWithLogin\\Models\\Customer.cs",
+  "SelectedNode": "\\McbaExampleWithLogin\\Views\\BillPay\\CreateBill.cshtml",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "069cf83a-d9e6-4989-b273-8f6b28c2a05e": {
+      "ProjectGuid": "069cf83a-d9e6-4989-b273-8f6b28c2a05e",
+      "DisplayName": "MvcMovieWithApi",
+      "ColorIndex": 0
+    },
+    "ffb25861-467b-4a6c-8af3-859b58d71225": {
+      "ProjectGuid": "ffb25861-467b-4a6c-8af3-859b58d71225",
+      "DisplayName": "MvcMovie",
+      "ColorIndex": 1
+    },
+    "48a36680-1971-4a7e-b91d-987f94133893": {
+      "ProjectGuid": "48a36680-1971-4a7e-b91d-987f94133893",
+      "DisplayName": "RecordsExample",
+      "ColorIndex": 2
+    },
+    "96ba0882-9a82-4f07-8a32-90a16be857b5": {
+      "ProjectGuid": "96ba0882-9a82-4f07-8a32-90a16be857b5",
+      "DisplayName": "WebApi",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
